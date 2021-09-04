@@ -1,6 +1,4 @@
 # Obfuscate
 
-
-#### Python Emoji Encryption
-
-<img src="https://github.com/KangProf/Obfuscate/raw/main/gambar/emoji-encryption.jpeg">
+Obfuscate adalah sebuah tools encrypt file.
+Obfuscate adalah encrypt anti decompile.
